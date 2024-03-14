@@ -1,0 +1,3 @@
+#aliyun
+deb https://mirrors.aliyun.com/kali kali-rolling main non-free contrib
+deb-src https://mirrors.aliyun.com/kali kali-rolling main non-free contrib
