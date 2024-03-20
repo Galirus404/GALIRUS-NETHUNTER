@@ -61,6 +61,8 @@ clear
 echo "Anda Belum Berlangganan"
 sleep 3
 echo "Silahkan Beli Dulu Ke Galirus Official"
+clear
+echo " Apikey : qwerty"
 xdg-open ="https://wa.me/6285850268349?text=.Bangmaubeliscriptnethunter"
 clear
 	read -p "APIKEY : " your
